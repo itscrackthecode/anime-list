@@ -1,6 +1,37 @@
+/* styles */
+body {
+    background-color: black;
+
+}
+
+h1 {
+    color:aqua
+}
+h2 {
+    color:mediumvioletred
+}
+h3{
+    color:chartreuse
+}
+p{
+    color:white
+}
+li{
+    color: aliceblue;
+}
+table {
+    color: gold;
+}
+
+
+
+
+
 a:hover {
     color:tomato
 }
+
+/* class styles */
 .anime_list li:hover{
     color:red;
 
@@ -8,3 +39,11 @@ a:hover {
 .welcome {
     text-align: center;
 }
+
+.header_image{
+    height: 200px;
+    width:100%;
+    background-size: cover;
+}
+
+/* id styles */
